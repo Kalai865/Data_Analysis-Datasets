@@ -1,0 +1,9 @@
+Order_ID,Item,Category,Quantity,Revenue
+O101,Pizza,Italian,2,600
+O102,Burger,Fast Food,3,450
+O103,Pasta,Italian,1,350
+O104,Pizza,Italian,4,1200
+O105,Burger,Fast Food,2,300
+O106,Pasta,Italian,5,750
+O107,Pizza,Italian,3,900
+O108,Burger,Fast Food,2,300
