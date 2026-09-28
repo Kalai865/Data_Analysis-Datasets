@@ -1,0 +1,5 @@
+customer_id,customer_name,city,quantity,product_id
+CUST501,John,Banglore,1,P101
+CUST782,Bob,Hyderabad,2,P102
+CUST501,Max,Banglore,3,P103
+CUST990,Anu,Chennai,1,P105
