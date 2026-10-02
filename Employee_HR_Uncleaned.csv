@@ -1,0 +1,95 @@
+﻿Emp ID, Employee Name ,EMAIL ADDRESS,Dept,Job Role,Age ,Monthly Salary (INR),Date of Joining,Work Location,Performance Rating,Employment Status,Manager ID
+E001,Sneha Sharma,sneha.sharma1@example.com,Operations,Software Engineer,29.0,42000.0,2019-11-24,Hyderabad,Excellent,Resigned,E055
+E002,Priya Sharma,priya.sharma2@example.com,Information Technology,Software Engineer,22.0,90000.0,2026-04-23,Chennai,Needs Improvement,Active,E058
+E003,Manoj Iyer,,Customer Support,Data Analyst,48.0,35000.0,2023-05-05,Delhi,Good,Active,E014
+E004,Rahul Singh,rahul.singh4@example.com,hr,Operations Executive,37.0,55000.0,2018-12-15,Hyderabad,Excellent,On Leave,E011
+E005,Neha Iyer,,Customer Support,Support Specialist,57.0,55000.0,2021-12-03,Coimbatore,Excellent,Active,E038
+E006,Rahul Pillai,rahul.pillai6@example.com,sales ,Data Analyst,38.0,62000.0,2025-11-27,Delhi,Average,Active,E048
+E007,Isha Reddy,isha.reddy7@example.com,Operations,Marketing Analyst,twenty five,32000.0,2026-12-08,Hyderabad,Good,On Leave,E049
+E008,Karthik Chopra,karthik.chopra8@example.com,Operations,Support Specialist,,42000.0,2018-04-27,Coimbatore,Excellent,Active,E052
+E009,Karthik Patel,karthik.patel9@example.com,Finance,Marketing Analyst,34.0,55000.0,2025-07-21,Mumbai,Needs Improvement,Active,E034
+E010,Arjun Reddy,arjun.reddy10@example.com,FINANCE,Support Specialist,58.0,48000.0,2024-10-13,Mumbai,Average,Active,E018
+E011,Aditya Das,aditya.das11@example.com,IT,Data Analyst,30.0,32000.0,31/11/2022,Delhi,Excellent,On Leave,E049
+E012,Aditi Das,aditi.das12@example.com,Marketing,Support Specialist,28.0,,2026-05-25,Hyderabad,Average,Active,E038
+E013,Kavya Kumar,kavya.kumar13@example.com,Sales,Marketing Analyst,53.0,48000.0,2020-09-04,Bengaluru,Average,Resigned,N/A
+E014,Vikram Kumar,vikram.kumar14@example.com,Mktg,Software Engineer,54.0,90000.0,2018-10-11,Delhi,Needs Improvement,Active,E015
+E015,Isha Chopra,PRIYA.NAIRexample.com,Customer Support,HR Executive,24.0,42000.0,2021-10-03,Delhi,Excellent,On Leave,E009
+E016,Neha Joshi,neha.joshi16@example.com,,Marketing Analyst,56.0,75000.0,2020-05-17,Chennai,Needs Improvement,Active,E070
+E017,Vikram Verma,vikram.verma17@example.com,Operations ,Marketing Analyst,49.0,55000.0,2026-08-04,Pune,Good,Active,E009
+E018,Rohan Sharma,rohan.sharma18@example.com,Marketing,Software Engineer,-5,42000.0,2019-12-21,Mumbai,Excellent,Active,E009
+E019,Priya Pillai,priya.pillai19@example.com,Human Resources,Support Specialist,38.0,42000.0,2025-04-18,unknown,Good,Resigned,E074
+e020,Pooja Reddy,pooja.reddy20@example.com,Customer Support,Operations Executive,33.0,62000.0,2019-02-22,Pune,Needs Improvement,Active,E055
+E021,Kavya Das,kavya.das21@example.com,Customer Support,Data Analyst,24.0,32000.0,,Coimbatore,Excellent,Active,E025
+E022,Vikram Rao,vikram.rao22@example.com,Sales,Sales Associate,38.0,35000.0,2025-04-28,bangalore,Excellent,On Leave,E071
+E023,Sneha Sharma,sneha.sharma23@example.com,Operations,Operations Executive,26.0,28000.0,15-08-2021,Mumbai,Needs Improvement,On Leave,E028
+E024,Naveen Chopra,naveen.chopra24@example.com,IT,Sales Associate,45.0,28000.0,2022-08-10,Chennai,,Resigned,E085
+E025,Pooja Kumar,pooja.kumar25@example.com,Finance,Software Engineer,58.0,28000.0,2026-01-24,Chennai ,Average,Active,E007
+E026,  Kavya Rao  ,manoj.das26@example.com,Marketing,Support Specialist,24.0,35000.0,2026-02-28,Delhi,Good,Active,E077
+E027,Rahul Menon,rahul.menon27@example.com,Customer Support,Sales Associate,57.0,32000.0,2021-10-20,Chennai,-,Resigned,E011
+E028,Kavya Menon,rahul@@example.com,Marketing,Support Specialist,37.0,55000.0,2021-11-23,Mumbai,Average,Active,E034
+E029,Naveen Kumar,naveen.kumar29@example.com,Operations,HR Executive,150,75000.0,2019-01-15,Coimbatore,Excellent,Active,E069
+E030,Vikram Rao,vikram.rao30@example.com,Human Resources,HR Executive,36.0,32000.0,2023-05-06,,Needs Improvement,Resigned,E039
+E031,Aditi Joshi,aditi.joshi31@example.com,Operations,Data Analyst,40.0,90000.0,2019-03-09,Mumbai,Excellent,Active,E999
+E032,Arjun Iyer,arjun.iyer32@example.com,Human Resources,Software Engineer,34.0,55000.0,2022-09-16,HYD,Average,Active,E012
+E033,Kavya Pillai,kavya.pillai33@example.com,Not Available,Data Analyst,29.0,55000.0,2022-03-24,Bengaluru,Needs Improvement,Resigned,E055
+EMP-034,Neha Sharma,neha.sharma34@example.com,IT,Marketing Analyst,55.0,35000.0,2018-06-19,Bengaluru,Good,On Leave,E017
+E035,Priya Iyer,priya.iyer35@example.com,Human Resources,Operations Executive,43.0,28000.0,2021-11-08,Delhi,Excellent,Active,
+E036,Kavya Gupta,kavya.gupta36@example.com,Operations,Software Engineer,32.0,35000.0,2024-01-06,Chennai,Average,On Leave,E086
+E037,Ananya Iyer,ananya.iyer37@example.com,Finance,Marketing Analyst,45.0,"₹45,000",2018-08-08,Delhi,Good,On Leave,E045
+E038,Divya Pillai,divya.pillai38@example.com,Customer Support,Software Engineer,22.0,42000.0,2021-07-11,Delhi,Average,Active,E036
+E039,Isha Menon,isha.menon39@example.com,Marketing,Marketing Analyst,42.0,90000.0,2024/13/05,Pune,Good,Resigned,E034
+E040,Priya Patel,priya.patel40@example.com,Marketing,HR Executive,48.0,55000.0,2026-02-13,Bombay,Good,Active,E006
+E041,ROHAN SHARMA,kavya.sharma41@example.com,Marketing,Support Specialist,44.0,42000.0,2024-02-22,Delhi,Average,Resigned,E041
+E042,Sneha Verma,sneha.verma42@example.com,Human Resources,,41.0,62000.0,2024-12-10,Mumbai,Good,Active,E054
+E043,Naveen Menon,  sneha.das42@example.com ,Operations,Support Specialist,46.0,48000.0,2026-01-10,Chennai,Average,Active,E056
+E044,Manoj Gupta,manoj.gupta44@example.com,Operations,Sales Associate,49.0,75000.0,2021-09-16,Hyderabad,Good,Active,E037
+E045,Aditya Menon,aditya.menon45@example.com,Operations,HR Executive,,32000.0,2022-04-26,Mumbai,Good,Active,E004
+E046,Priya Reddy,priya.reddy46@example.com,Sales,Operations Executive,50.0,32000.0,2024-11-19,Mumbai,Good,active,E064
+E 047,Naveen Reddy,naveen.reddy47@example.com,Finance,Marketing Analyst,27.0,28000.0,2024-04-06,Coimbatore,Needs Improvement,Active,E072
+E048,Ananya Chopra,ananya.chopra48@example.com,Customer Support,Sales Associate,50.0,35000.0,2026-09-20,Bengaluru,Average,,E079
+E049,Aditya Singh,aditya.singh49@example.com,Customer Support,Sales Associate,51.0,35000.0,2025-05-25,Mumbai,Good,ON LEAVE,E067
+E050,Pooja Menon,pooja.menon50@example.com,Finance,Sales Associate,39.0,45000 INR,2021-05-11,Hyderabad,Average,Resigned,E011
+E051,Arjun Kumar,arjun.kumar51@example.com,Finance,Marketing Analyst,34.0,35000.0,2019-07-14,Pune,Average,Resigned,Manager unknown
+E052,Kavya Sharma,kavya.sharma52@example.com,Finance,Sales Associate,58.0,62000.0,2018-10-13,Delhi,Needs Improvement,Active,E046
+E053,Divya Joshi,divya.joshi53@example.com,Sales,Operations Executive,55.0,62000.0,2026-10-08,Delhi,Needs Improvement,Active,E035
+E054,,kavya.das54@example.com,IT,HR Executive,31.0,62000.0,2025-03-20,Pune,Excellent,On Leave,E076
+E055,divya  iyer,manoj.menon55@example.com,IT,Marketing Analyst,29.0,62000.0,2025-03-02,Bengaluru,Average,On Leave,E042
+E056,Vikram Das,vikram.das56@example.com,Human Resources,Operations Executive,38.0,62000.0,2024-05-27,Hyderabad,Excellent,Resigned ,E003
+E057,Neha Sharma,neha.sharma57@example.com,Human Resources,Marketing Analyst,23.0,32000.0,2018-04-07,Chennai,Excellent,Resigned,E020
+E058,Ananya Kumar,ananya.kumar58@example.com,Sales,Data Analyst,50.0,?,2022-06-06,Coimbatore,Excellent,Active,E040
+E059,Sneha Gupta,arjun verma@example.com,IT,Support Specialist,46.0,62000.0,2021-02-19,Hyderabad,Good,Active,E090
+E060,Divya Pillai,divya.pillai60@example.com,Operations,Operations Executive,57.0,,2018-06-18,Mumbai,Needs Improvement,Active,E009
+E061,Aditya Menon,aditya.menon61@example.com,Human Resources,Operations Executive,52.0,62000.0,not known,Bengaluru,Needs Improvement,Active,E056
+E062,Meera Verma,meera.verma62@example.com,Marketing,HR Executive,51.0,90000.0,2025-07-27,Coimbatore,excellent,Active,E032
+,Rahul Iyer,rahul.iyer63@example.com,Sales,Operations Executive,57.0,75000.0,2024-06-01,Chennai,Needs Improvement,Active,E024
+E064,Pooja Reddy,,Human Resources,HR Executive,38.0,55000.0,2022-09-01,Delhi,Good,Active,E031
+E065,Kavya Das,kavya.das65@example.com,Marketing,Software Engineer,52.0,75000.0,2025-01-03,Delhi,Average,Active,E052
+E066,Ananya Iyer,ananya.iyer66@example.com,Operations,HR Executive,56.0,75000.0,2026-06-14,Mumbai,needs improvement,Active,E090
+E067,Sanjay Iyer,sanjay.iyer67@example.com,Human Resources,Software Engineer,33.0,-12000,2023-02-24,Hyderabad,Good,Active,E028
+E068,Pooja Iyer,pooja.iyer68@example.com,Operations,Operations Executive,39.0,90000.0,2019-04-10,Mumbai,Good,Active,E000
+E069,Divya Sharma,divya.sharma69@example.com,Operations,TBD,23.0,48000.0,2018-09-10,Mumbai,Good,On Leave,E014
+E070,NEHA   VERMA,aarav.gupta70@example.com,Human Resources,Sales Associate,42.0,75000.0,2020-01-09,Pune,Needs Improvement,Active,E009
+E071,Naveen Das,naveen.das71@example.com,IT,Marketing Analyst,,28000.0,2020-10-10,Mumbai,Excellent,Active,E016
+E072,Neha Joshi,neha.joshi72@example.com,Sales,Support Specialist,54.0,42000.0,2024-08-15,Mumbai,Average,Resigned,E055
+E073,Divya Gupta,divya.gupta73@example.com,Marketing,Support Specialist,34.0,32000.0,2021-05-22,Bengaluru,GOOD,Active,E031
+E074,Meera Rao,meera.menon@,IT,Data Analyst,49.0,62000.0,2025-05-02,Chennai,Good,Active,E037
+E075,Sanjay Patel,sanjay.patel75@example.com,Operations,HR Executive,48.0,42000.0,2023-02-30,Chennai,Good,Active,E019
+E076,Rahul Sharma,rahul.sharma76@example.com,Finance,HR Executive,49.0,48000.0,2019-08-23,Delhi,Average,On Leave,E035
+E077,Aditya Rao,aditya.rao77@example.com,Sales,Data Analyst,48.0,28000.0,,Pune,Excellent,Active,E030
+E078,Manoj Gupta,manoj.gupta78@example.com,IT,Marketing Analyst,57.0,48000.0,2018-03-16,Delhi,Needs Improvement,Active,E024
+E079,Manoj Singh,manoj.singh79@example.com,Operations,data analyst,51.0,32000.0,2023-07-11,Delhi,Average,Active,E021
+E999,Rohan Singh,rohan.singh80@example.com,Operations,HR Executive,56.0,62000.0,2018-08-03,Pune,Average,Active,E042
+E081,Sneha Joshi,sneha.joshi81@example.com,Sales,Support Specialist,55.0,"1,00,000",2025-07-02,Delhi,Good,Resigned,E047
+E082,Aditi Joshi,aditi.joshi82@example.com,Sales,Sales Associate,34.0,28000.0,2022-09-05,Coimbatore,Average,On Leave,E090
+E083,Pooja Patel,pooja.patel83@example.com,IT,Software engineer ,31.0,42000.0,2022-09-01,Coimbatore,Needs Improvement,Active,E029
+E084,Sneha Das,sneha.das84@example.com,IT,Operations Executive,52.0,35000.0,2022-09-23,Coimbatore,Average,On Leave,
+E085,Pooja Reddy,pooja.reddy85@example.com,Sales,Software Engineer,33.0,62000.0,2026-12-05,Mumbai,Excellent,Active,E054
+E086,Rohan Chopra,rohan.chopra86@example.com,Customer Support,HR Exec,39.0,28000.0,2022-10-19,Mumbai,Needs Improvement,Active,E058
+E087,Neha Das,neha.das87@example.com,Human Resources,Support Specialist,45.0,90000.0,2025-06-28,Hyderabad,Good,Active,E074
+E088,Naveen Reddy,naveen.reddy88@example.com,Customer Support,Sales Associate,41.0,28000.0,2025-12-26,Delhi,Needs Improvement,On Leave,E085
+E089,Arjun Das,arjun.das89@example.com,IT,Support Specialist,27.0,55000.0,2025-02-17,Chennai,Needs Improvement,Active,E019
+E090,Kavya Pillai,kavya.pillai90@example.com,Operations,Data Analyst,37.0,75000.0,2023-10-23,Chennai,Needs Improvement,Active,E043
+E015,Isha Chopra,isha.chopra15@example.com,Customer Support,HR Executive,24.0,42000.0,2021-10-03,Delhi,Excellent,On Leave,E009
+E038,Divya Pillai,divya.pillai38@example.com,Customer Support,Software Engineer,22.0,42000.0,2021-07-11,Delhi,Average,Active,E036
+E009,KARTHIK PATEL,karthik.patel9@example.com,it,Marketing Analyst,34.0,55000.0,2025-07-21,Mumbai,Needs Improvement,Active,E034
+E052 ,Kavya Sharma,kavya.sharma52@example.com,Finance,Sales Associate,58.0,62000.0,2018-10-13,Delhi,Needs Improvement,Active,E046
